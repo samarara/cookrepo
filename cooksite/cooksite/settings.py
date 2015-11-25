@@ -79,10 +79,10 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'homecookdb',
-        'USER': '',
-        'PASSWORD': '',
-        'HOST': 'localhost',
+        'NAME': 'd1jei2gq0hpjc7',
+        'USER': 'dkkqsvpjtlsttd',
+        'PASSWORD': 'x4c-mLFohV_mKpmcohAwXwc4ze',
+        'HOST': 'ec2-54-83-202-64.compute-1.amazonaws.com',
         'PORT': '5432',
     }
 }
